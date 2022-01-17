@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "mysterium-pcb-rescue")(type "Legacy")(uri "${KIPRJMOD}/mysterium-pcb-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name "Alpsterium-pcb-rescue")(type "KiCad")(uri "${KIPRJMOD}/Alpsterium-pcb-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "YAAJ_BlackPill_SWD_Breakout")(type "Legacy")(uri "${KIPRJMOD}/Kicad-STM32-master/Symbols/YAAJ_BlackPill_SWD_Breakout.lib")(options "")(descr ""))
+  (lib (name "YAAJ_BlackPill_Part_Like")(type "Legacy")(uri "${KIPRJMOD}/Kicad-STM32-master/Symbols/YAAJ_BlackPill_Part_Like.lib")(options "")(descr "")(disabled))
+  (lib (name "promicro")(type "Legacy")(uri "/home/djones/Documents/kicad/ProMicroKiCad-master/promicro_library/promicro.lib")(options "")(descr "")(disabled))
+  (lib (name "teensy")(type "Legacy")(uri "${KIPRJMOD}/teensy_library-master/teensy.lib")(options "")(descr ""))
+  (lib (name "YAAJ_BlackPill_Part_Like_SWD_Breakout")(type "Legacy")(uri "${KIPRJMOD}/Kicad-STM32-master/Symbols/YAAJ_BlackPill_Part_Like_SWD_Breakout.lib")(options "")(descr ""))
+  (lib (name "bluepill_or_minif4_dip40")(type "KiCad")(uri "${KIPRJMOD}/Kicad-STM32-master/Symbols/bluepill_or_minif4_dip40.kicad_sym")(options "")(descr ""))
+)
