@@ -7,8 +7,4 @@
 
 **[Optional High Profile Lasercut Acrylic Case](./case)**
 
-![mysterium](./doc/images/mysterium.jpg)
-![](./doc/images/mysterium-kicad.png)
-![](./doc/images/mysterium-top.png)
-![](./doc/images/mysterium-bottom.png)
-![](./doc/images/mysterium-bottom-plate.png)
+Current WIP
