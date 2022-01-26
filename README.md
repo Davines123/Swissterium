@@ -7,7 +7,8 @@
 
 **[Optional High Profile Lasercut Acrylic Case](./case)**
 
-Current WIP
+Currently WIP
+
 V1 - Initial Commit
 
 V2 - Cleaning up, fix isolated GND plane, switched left shift to 2.25u, added 3800 stepped capslock
