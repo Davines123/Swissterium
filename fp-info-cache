@@ -1,4 +1,4 @@
-20137864658462194
+20164802178066903
 Alps_Only
 ALPS-1.5U
 
@@ -2274,6 +2274,69 @@ IP67 ultra-miniture horizontal
 0
 5
 3
+Button_Switch_THT
+SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV2
+momentary / push-push button, h=17.5mm C&K PVA1 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA1 DPST
+0
+4
+4
+Button_Switch_THT
+SW_Push_2P1T_Toggle_CK_PVA1xxH2xxxxxxV2
+momentary / push-push button, h=23mm C&K PVA1 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA1 DPST
+0
+4
+4
+Button_Switch_THT
+SW_Push_2P1T_Toggle_CK_PVA1xxH3xxxxxxV2
+momentary / push-push button, h=20.5mm C&K PVA1 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA1 DPST
+0
+4
+4
+Button_Switch_THT
+SW_Push_2P1T_Toggle_CK_PVA1xxH4xxxxxxV2
+momentary / push-push button, h=15mm C&K PVA1 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA1 DPST
+0
+4
+4
+Button_Switch_THT
+SW_Push_2P2T_Toggle_CK_PVA2OAH5xxxxxxV2
+momentary / push-push button, h=13mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA2 DPDT
+0
+6
+6
+Button_Switch_THT
+SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2
+momentary / push-push button, h=17.5mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA2 DPDT
+0
+6
+6
+Button_Switch_THT
+SW_Push_2P2T_Toggle_CK_PVA2xxH2xxxxxxV2
+momentary / push-push button, h=23mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA2 DPDT
+0
+6
+6
+Button_Switch_THT
+SW_Push_2P2T_Toggle_CK_PVA2xxH3xxxxxxV2
+momentary / push-push button, h=20.5mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA2 DPDT
+0
+6
+6
+Button_Switch_THT
+SW_Push_2P2T_Toggle_CK_PVA2xxH4xxxxxxV2
+momentary / push-push button, h=15mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA2 DPDT
+0
+6
+6
 Button_Switch_THT
 SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6
  right angle DPDT push button https://www.e-switch.com/system/asset/product_line/data_sheet/210/800U.pdf
@@ -8078,8 +8141,15 @@ connector barrel jack
 3
 3
 Connector_Card
-CF-Card_3M_N7E50-7516PK-20-WF
-Compact Flash Card connector (https://multimedia.3m.com/mws/media/22365O/3mtm-cf-card-header-compactflashtm-type-i-sm-ts0662.pdf)
+CF-Card_3M_N7E50-A516xx-30
+Compact Flash Card connector, polarization inverse (https://multimedia.3m.com/mws/media/22424O/3mtm-cf-card-header-type-i-low-profile-surface-mount-ts0747.pdf)
+connector cf
+0
+54
+50
+Connector_Card
+CF-Card_3M_N7E50-E516xx-30
+Compact Flash Card connector, normal polarization (https://multimedia.3m.com/mws/media/22424O/3mtm-cf-card-header-type-i-low-profile-surface-mount-ts0747.pdf)
 connector cf
 0
 54
@@ -51618,6 +51688,13 @@ emi filter
 5
 5
 Footprints
+DIP-40_W15.24mm_Socket
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+40
+40
+Footprints
 YAAJ_BlackPill_1
 BlackPill module with pin headers and sockets. No SWD breakout
 module BlackPill Black Pill header socket
@@ -52678,6 +52755,13 @@ Inductor_SMD
 L_2512_6332Metric_Pad1.52x3.35mm_HandSolder
 Inductor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_AVX_LMLP07A7
+Inductor, AVX Kyocera, LMLP Series, style D, 6.6mmx7.3mm, 3.0mm height. (Script generated with StandardBox.py) (https://datasheets.avx.com/LMLPD.pdf)
+Inductor LMLP
 0
 2
 2
@@ -72612,28 +72696,28 @@ SOT-89-5
 5
 Package_TO_SOT_SMD
 SOT-143
-SOT-143
+SOT-143 https://www.nxp.com/docs/en/package-information/SOT143B.pdf
 SOT-143
 0
 4
 4
 Package_TO_SOT_SMD
-SOT-143R_Reverse
-SOT-143R Reverse
+SOT-143R
+SOT-143R, reverse pinning, https://www.nxp.com/docs/en/package-information/SOT143R.pdf
 SOT-143R Reverse
 0
 4
 4
 Package_TO_SOT_SMD
-SOT-143R_Reverse_Handsoldering
-SOT-143R Reverse Handsoldering
+SOT-143R_Handsoldering
+SOT-143R, reverse pinning, Handsoldering, https://www.nxp.com/docs/en/package-information/SOT143R.pdf
 SOT-143 Reverse Handsoldering
 0
 4
 4
 Package_TO_SOT_SMD
 SOT-143_Handsoldering
-SOT-143 Handsoldering
+SOT-143 Handsoldering https://www.nxp.com/docs/en/package-information/SOT143B.pdf
 SOT-143 Handsoldering
 0
 4
@@ -75657,7 +75741,7 @@ Potentiometer Trimmer RM-063
 3
 Potentiometer_THT
 Potentiometer_Runtron_RM-065_Vertical
-Potentiometer, vertical, Trimmer, RM-065 http://www.runtron.com/down/PDF%20Datasheet/Carbon%20Film%20Potentiometer/RM065%20RM063.pdf
+Potentiometer, vertical, Trimmer, RM-065 https://components101.com/sites/default/files/component_datasheet/Preset%20Potentiometer%20%28Trimpot%29.pdf
 Potentiometer Trimmer RM-065
 0
 3
